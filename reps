@@ -5,3 +5,8 @@ choco install yarn
 choco install 7zip.install
 choco install nodejs.install
 choco install firacode
+choco install github-desktop 
+choco install steam
+choco install unity
+choco install blender
+choco install gimp
