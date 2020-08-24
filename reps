@@ -1,4 +1,3 @@
-choco install firefox-dev --pre
 choco install vscode
 choco install ditto
 choco install yarn
@@ -7,7 +6,5 @@ choco install nodejs.install
 choco install firacode
 choco install osfontpack
 choco install github-desktop 
-choco install steam
 choco install unity
-choco install blender
 choco install gimp
